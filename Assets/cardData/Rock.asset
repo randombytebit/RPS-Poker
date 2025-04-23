@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0b3fe24d20264c2ab04237813340177, type: 3}
+  m_Name: Rock
+  m_EditorClassIdentifier: 
+  cardImage: {fileID: 3452003437791708593, guid: fa59739edba244dd08b4218a38ec368c, type: 3}
+  cardName: Rock
+  beats: {fileID: 11400000, guid: db1cba21c534740f2afce65f08e0b489, type: 2}
